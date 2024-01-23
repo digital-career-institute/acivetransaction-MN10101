@@ -1,5 +1,7 @@
 package jdbc;
+
 import java.sql.*;
+
 public class Activetransaction {
     private static Connection connection;
     private static void updateQuery() throws SQLException {
